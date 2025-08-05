@@ -1,4 +1,3 @@
-# dhurwa_landingPage
 
 
 # Responsive Web Page
@@ -19,15 +18,21 @@ A clean, modern, and fully responsive web page layout built with HTML and CSS. D
 
 ---
 
-## Demo
+# Tech stack
+- HTML
+- CSS
 
-You can view the live demo by opening `index.html` in your browser.
+## For Demo visiting site:
+link:- http://127.0.0.1:5500/landing_page/index.html
+You can view the live demo by opening  in your browser:
 
 ---
 
 ## Installation
 
 1. Clone the repository or download the ZIP file.
+- 
+
 
 ```bash
-git clone https://github.com/yourusername/responsive-web-page.git
+

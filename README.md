@@ -31,7 +31,7 @@ You can view the live demo by opening  in your browser:
 ## Installation
 
 1. Clone the repository or download the ZIP file.
-- 
+
 
 
 ```bash

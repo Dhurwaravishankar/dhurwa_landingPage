@@ -31,7 +31,11 @@ You can view the live demo by opening  in your browser:
 ## Installation
 
 1. Clone the repository or download the ZIP file.
+<<<<<<< HEAD
 
+=======
+- [click hare to download the ZIP file](landing_page.zip)
+>>>>>>> 16ceedcc0cb9a164c64b06b99e62ea7642eb0e8b
 
 
 ```bash
